@@ -1,4 +1,4 @@
-Its an internship management system 
+Its an internship Management System 
 
 # React-Nodejs-Setup
 
