@@ -1,14 +1,8 @@
-<<<<<<< HEAD
+Its an internship management system 
+
 # React-Nodejs-Setup
 
 This is a Project startup that uses React as a front-end library, and Node.js as backend
-
-## Team Members
-
-- Emad MOHAMED | Developer | <emo@corelia.ai>
-- Mohamed Alaa | Developer |  <mhl@corelia.ai>
-
-## Development
 
 ### Prerequisites
 
@@ -131,7 +125,3 @@ make publish
 ```sh
 docker-compose up -d
 ```
-=======
-# IMS_project
-Its an internship management system 
->>>>>>> 052adfc4466376fa1980be5e9a0127b18616837b
